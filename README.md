@@ -1,5 +1,5 @@
 
-# Google OAuth Example (For Study Purpose Only)
+# Google OpenID Connect Example (For Study Purpose Only)
 
 参考文献：
 - https://developers.google.com/identity/protocols/oauth2/openid-connect
