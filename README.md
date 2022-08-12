@@ -17,6 +17,8 @@ https://accounts.google.com/o/oauth2/v2/auth?client_id=929**********bro.apps.goo
 
 ![](./imgs/flow1.png)
 
+「Login with Google」を押下する。
+
 ![](./imgs/flow2.png)
 
 #### (2) Googleアカウントでログインすると以下URLにリダイレクトする
