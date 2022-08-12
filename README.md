@@ -28,6 +28,8 @@ https://127.0.0.1/callback?code=4%2F0A**********ALg&scope=profile+openid+https%3
 ```
 
 #### (3) トークンエンドポイントへのアクセス
+Webサーバ側でGoogleのトークンエンドポイントと通信します。
+
 リクエスト：
 ```
 curl -v -X POST \
